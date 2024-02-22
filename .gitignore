@@ -1,10 +1,7 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,venv,python,pycharm,windows
-
 #########################
 ##### Project Files
 #########################
 tests/
-__solve.py
 requirements_dev.txt
 
 
